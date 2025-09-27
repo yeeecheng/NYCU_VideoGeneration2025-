@@ -1,1 +1,1 @@
-echo # NYCU_VideoGeneration2025-
+#NYCU_VideoGeneration2025
